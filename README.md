@@ -1,7 +1,9 @@
+<div align="center">
 # 👋 Hi, I’m @rasulov-emirlan
 ## 👀 I’m interested in web development and pizza 🍕
 ## 🌱 I’m currently learning golang
 ## 💞️ I’m looking to collaborate on anything
+</div>
 
 <!---
 rasulov-emirlan/rasulov-emirlan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
