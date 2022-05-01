@@ -1,5 +1,5 @@
 <div align="center">
-👋 Hi, I’m @rasulov-emirlan
+  <h1>👋 Hi, I’m @rasulov-emirlan </h1>
 </div>
 
 ## 👀 I’m interested in web development and pizza 🍕
