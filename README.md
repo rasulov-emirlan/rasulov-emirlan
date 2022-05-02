@@ -15,7 +15,7 @@ You can click the Preview link to take a look at your changes.
 </div>
 
 <br/>
-<h2> 🧑‍🎓Student at American Univercity of Central Asia <br/>
+<h2> 🧑‍🎓Student at American University of Central Asia <br/>
 🍕 Love go and Pizza <br/>
 🌐 Currently Learning web development. <br/>
 🧠 Planning on becomming a fullstack developer
